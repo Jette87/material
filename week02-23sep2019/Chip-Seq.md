@@ -7,4 +7,5 @@ make the link (technology -> application -> statistics)
 
 github usernames:
 
-lwidmer94
+* lwidmer94
+* Jette87
